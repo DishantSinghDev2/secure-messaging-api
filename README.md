@@ -37,7 +37,7 @@ This API documentation outlines a messaging platform with end-to-end encryption 
         {
           "username": "Ishu",
           "deviceId": "absetnt233434",
-          "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApvQyt9RoY4eTaNG62U7k\nCkAP3gWb88HSDYkn621qgjAtaBwt3FTC7dymMDdN2pmDcaNtBiKfFBLvxDeN2AF4\nDqLSPyGpAcwddEsW9twAFtK0lQRc+cTjWudcqkiPEq3p7cMH1u6arH6b2u5jHcmZ\ngT4jY2MQ9GB8mi0Y+0+CedRLjsOo9/nVF0vUQYJT/HHlRc1W4nhV7XXiTnFBPXJC\nc9emZbVU3vMsgiDP9Uj3j7Yr9Rivnr7Lf1QMPC648KeIJ+0Mf0+m4P4kozIYVjhs\nn8/tUC6fEVBpFf3H3YncqBzxrI/WJf1kgjQdFoDAa9CYXpCf/kyghfQq3v33TVXG\nFQIDAQAB\n-----END PUBLIC KEY-----\n"
+          "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArFcZpZfQYQ/5KRb/c8UtNYVmGrGJt/hKbD7hlBy0Cukky5wW4mifVKzJ7TyHTdpxbpY/se6d5FaBhA+agORl9TiRdnfS/+GQTLUv/ey7u+rHlvrEZGc1i31ByculGWIptaQOS2VvMlZyCqBHk7UEPK7W6lODVi4YQ2kFNs0jRNkHtXl0a0He7XiYQlZU5bsGdu10/9mVm3krW6EAyDvjiAvtSjCFy1q6Blr0VOaZkZcIMBxw45uS8TH8UIAm9E4Y0pNbCCYBmuw0SvjQnPohLVJKnvY2HxZXUfWxeTLZ6DKCAJN14flGasHFvGQ/L8wE1RDy6VslGlcl4xHCyseyEQIDAQAB"
         }
         ```
         *   `username`: The user's desired username.
@@ -50,7 +50,7 @@ This API documentation outlines a messaging platform with end-to-end encryption 
           "data": {
             "userId": "67fa4e122f209f597a5fbd3f",
             "username": "Ishu",
-            "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApvQyt9RoY4eTaNG62U7k\nCkAP3gWb88HSDYkn621qgjAtaBwt3FTC7dymMDdN2pmDcaNtBiKfFBLvxDeN2AF4\nDqLSPyGpAcwddEsW9twAFtK0lQRc+cTjWudcqkiPEq3p7cMH1u6arH6b2u5jHcmZ\ngT4jY2MQ9GB8mi0Y+0+CedRLjsOo9/nVF0vUQYJT/HHlRc1W4nhV7XXiTnFBPXJC\nc9emZbVU3vMsgiDP9Uj3j7Yr9Rivnr7Lf1QMPC648KeIJ+0Mf0+m4P4kozIYVjhs\nn8/tUC6fEVBpFf3H3YncqBzxrI/WJf1kgjQdFoDAa9CYXpCf/kyghfQq3v33TVXG\nFQIDAQAB\n-----END PUBLIC KEY-----\n"
+            "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArFcZpZfQYQ/5KRb/c8UtNYVmGrGJt/hKbD7hlBy0Cukky5wW4mifVKzJ7TyHTdpxbpY/se6d5FaBhA+agORl9TiRdnfS/+GQTLUv/ey7u+rHlvrEZGc1i31ByculGWIptaQOS2VvMlZyCqBHk7UEPK7W6lODVi4YQ2kFNs0jRNkHtXl0a0He7XiYQlZU5bsGdu10/9mVm3krW6EAyDvjiAvtSjCFy1q6Blr0VOaZkZcIMBxw45uS8TH8UIAm9E4Y0pNbCCYBmuw0SvjQnPohLVJKnvY2HxZXUfWxeTLZ6DKCAJN14flGasHFvGQ/L8wE1RDy6VslGlcl4xHCyseyEQIDAQAB"
           }
         }
         ```
